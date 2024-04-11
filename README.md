@@ -1,6 +1,6 @@
-Breadcrumbsip2region-xdb数据
+ip2region-xdb数据库
 
-100万行
+中文ip归属地数据库100万行
 
 
 数据表头：
