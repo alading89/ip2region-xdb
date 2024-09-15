@@ -31,8 +31,7 @@ ip2region-xdb数据库
 
 119.63.224.0|119.63.226.255|韩国|0|庆尚北道|醴泉郡|LG HelloVision|Asia/Seoul|36.6566|128.4293|0|0|0
 
-仅包含数据，自用前端演示：
+仅包含数据，在线测试：
 
+[pctools.cc](https://www.pctools.cc/zh-cn/ip?sockets=ip2region)
 
-
-![搜狗高速浏览器截图20240814225128](https://github.com/user-attachments/assets/b70ed490-f0e3-406e-8fa7-b9ae184c57fa)
