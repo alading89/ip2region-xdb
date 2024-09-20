@@ -6,7 +6,7 @@ ip2region-xdb数据库
 
 数据表头：
 
-开始ip|结束ip|国家|区域|省|市|运营商|时区|lat|lon|ismobile|isvpn|ishost(或搜索引擎蜘蛛种类)
+开始ip|结束ip|国家|区域|省|市|运营商|时区|lat|lon|ismobile|isvpn|ishost(或搜索引擎蜘蛛种类)|ASN（部分存在）
 
 
 数据示例：
