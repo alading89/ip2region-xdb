@@ -33,5 +33,5 @@ ip2region-xdb数据库
 
 仅包含数据，在线测试：
 
-[pctools.cc](https://www.pctools.cc/zh-cn/ip?sockets=ip2region)
+[pctools.cc](https://www.pctools.cc/zh-cn/ip?sockets=ip2region){:target="_blank"}
 
